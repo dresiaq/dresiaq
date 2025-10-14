@@ -22,3 +22,7 @@ A passionate FiveM Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dresiaq"><img src="https://github-readme-stats.vercel.app/api?username=dresiaq&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="dresiaq's GitHub stats" /></a>
+
+### Support Me
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dresiaq"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
