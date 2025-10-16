@@ -23,7 +23,7 @@ A passionate Minecraft Modding Developer
 <!--Trophies Section-->   
 <h2 align="center">:trophy: Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs :trophy:</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689">
+  <a href="https://github.com/dresiaq">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dresiaq&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dresiaq&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
