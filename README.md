@@ -1,17 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is dresiaq
 ================================================================================================================================
 
-A passionate Minecraft Modding Developer
+A passionate Indie Game Developer
 ----------------------------------------
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [kontakt.dresiaq@proton.me](mailto:kontakt.dresiaq@proton.me)
-*   🧠  I'm currently learning the whole universe of Minecraft Modding.
+*   🧠  I'm currently learning the whole universe of creating games in Unity.
 
 ### Languages & Tools I'm Using
 <p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" alt="Java" title="Java" width="36" height="36" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Idea-Dark.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Unity-Dark.svg" alt="Unity" title="Unity" width="36" height="36" /></a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CLion-Dark.svg" alt="CLion" title="CLion" width="36" height="36" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" alt="CSharp" title="CSharp" width="36" height="36" /></a>
 </p>
                   
 
