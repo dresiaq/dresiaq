@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is dresiaq
 ================================================================================================================================
 
-A passionate Indie Game Developer
+A passionate FiveM & Indie Game Developer
 ----------------------------------------
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [kontakt.dresiaq@proton.me](mailto:kontakt.dresiaq@proton.me)
-*   🧠  I'm currently learning the whole universe of creating games in Unity.
+*   🧠  I'm currently learning the whole universe of creating games in Unity and programming in FiveM.
 
 ### Languages & Tools I'm Using
 <p align="left">
